@@ -63,17 +63,10 @@ _____
 -----
 
 ## Languages
- <li>
-                Russian - Native
-            </li>
-            <li>
-                English - Upper-intermediate
-            </li>
-            <li>
-                Polish – Upper-intermediate
-            </li>
-            <li>
-                German – Basic
+ - Russian - Native
+ - English - Upper-intermediate
+ - Polish – Upper-intermediate
+ - German – Basic
 
 ****
 
