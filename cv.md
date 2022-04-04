@@ -1,6 +1,6 @@
 # Alina Astapchyk
 
-
+______
 
 ## Contacts
 
@@ -25,8 +25,7 @@ I graduated from BSEU and worked for 6 years as an economist in finance. Well, a
 I also studied for two years as a graphic artist and was engaged in digital painting.
 
 And now I decided to try myself as a *developer*. 
-This occupation provides endless possibilities for professional growth, besides there’s a huge 
-amount of free high quality resources for self-education and a large community of developers.
+
 I believe, that my ability to learn and to gain new skills will lead me through this path of 
 becoming a proficient Frontend Developer.
 
