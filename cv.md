@@ -19,6 +19,36 @@ And now I decided to try myself as a *developer*.
 I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer.
 
 ----
+##  **Education:**
+- Belarusian State Economic University
+
+   *Specialization: Statistics*
+
+- University of Economics in Poznan
+  
+  *Specialization: Electronic business*
+----
+
+## **Languages:**
+- **English** - Upper-intermediate
+- Russian - Native
+- Polish – Upper-intermediate
+- German – Basic
+
+___
+
+## **Skills:**
+
+- HTML
+- CSS
+- Git, GitHub
+- JavaScript Basics
+- Python Basic 
+- Adobe Photoshop 
+
+----
+
+## **Code example:**
 
 
 
