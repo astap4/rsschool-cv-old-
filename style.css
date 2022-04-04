@@ -62,3 +62,22 @@ span {
     color: rgb(60, 146, 113);
     margin: 2%
 }
+.footer {
+    background-color: rgb(181, 181, 181);
+    display: flex;
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   height:70px;
+   width:100%;
+
+
+}
+.footer-left {
+    width: 80%;
+    margin-left: 40%;
+
+}
+.footer-right {
+    width: 20%;
+}
