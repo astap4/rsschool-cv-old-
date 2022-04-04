@@ -63,7 +63,7 @@ _____
 
 ## Languages
  - Russian - Native
- - English - Upper-intermediate
+ - **English** - Upper-intermediate
  - Polish – Upper-intermediate
  - German – Basic
 
