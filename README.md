@@ -1,1 +1,1 @@
-# https://astap4ik69.github.io/rsschool-cv/cv
+# https://astap4.github.io/rsschool-cv/cv
